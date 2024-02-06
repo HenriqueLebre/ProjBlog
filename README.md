@@ -15,5 +15,5 @@ Linguagem Web
 
 - [X]  JavaScript - Front-end
 - [X]  Vue - FrameWork
-- [X]  Python Django
+- [X] .NET
 
